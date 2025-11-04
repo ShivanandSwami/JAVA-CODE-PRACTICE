@@ -3,7 +3,7 @@ package ARAYSJAVA;
 import java.util.Scanner;
 
 public class userInputReversArray {
-	
+	//merger 
 	public static void main(String[] args) {
 		Scanner Sc = new Scanner(System.in);
 		System.out.print("Kindly provide the reversal Number");
@@ -19,3 +19,4 @@ public class userInputReversArray {
 	}
 
 }
+
